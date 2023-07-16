@@ -9,7 +9,11 @@
 
 ### Tutorial-type prompts
 ### Claude 
-- Edu Prompts/Claude/Friendly AI Tutor - v3 [Edu Prompts/Claude/Friendly AI Tutor - v3](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Claude/Friendly%20AI%20Tutor%20-%20v3)
+- Friendly AI Tutor - v3 [Edu Prompts/Claude/Friendly AI Tutor - v3](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Claude/Friendly%20AI%20Tutor%20-%20v3)
+
+### ChatGPT
+- First Principles V1 [First Principles V1](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/First%20Principles%20V1).
+
 
 ### Other GPT Frameworks
 Noted, I am heavily influenced by the following two prompt engineers. 
