@@ -13,8 +13,9 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
 - Friendly AI Tutor - v3 [Edu Prompts/Claude/Friendly AI Tutor - v3](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Claude/Friendly%20AI%20Tutor%20-%20v3)
 
 ### ChatGPT
-- First Principles V1 [First Principles V1](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/First%20Principles%20V1).
--💡IdeaCreationGPT [IdeaCreationGPT](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/IdeaCreationGPT)
+- First Principles V1 [First Principles V1](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/First%20Principles%20V1)
+
+  💡IdeaCreationGPT [IdeaCreationGPT](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/IdeaCreationGPT)
 
 ### Other GPT Frameworks
 Noted, I am heavily influenced by the following two prompt engineers. 
