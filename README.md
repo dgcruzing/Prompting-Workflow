@@ -26,3 +26,8 @@ Noted, I am heavily influenced by the following two prompt engineers.
 - [CLARKGPT](https://github.com/jconorgrogan/CLARKGPT)- Chain-of-Thought, Limitations, Accuracy, Reflection, Knowledge
 ----------------
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)- Were my journey started and I still steer beginners too. 
+----------
+### Note: 
+If you come across a prompt I have not attributed someone else as a source, pop me a note as we are knee-deep in testing out what works and what gets tweaked. 
+I have been building out a thread on Twitter so will shift the learnings here, keeping in mind any copywriting constraints on some of this work. 
+- [SuperPrompting ChatGPT Prompt Twitter thread](https://twitter.com/advancedcskills/status/1652312454003822594?s=20)
