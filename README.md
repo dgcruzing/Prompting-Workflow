@@ -1,6 +1,7 @@
 <p align="center"><h1>🧠 Prompting-Workflow mix LLM EDU Prompts</h1></p>
 
 ### Prompting-Workflows
+I will try to keep this on track around Prompts and Frameworks that work for me within the context of building out course materials for lecturing around the subjects of Project Management and Construction Management. 
 
 📖**Prompting and research workflow for lecture building**
 
@@ -23,3 +24,5 @@ Noted, I am heavily influenced by the following two prompt engineers.
 - * [Larry's Github Repos](https://github.com/1arry1iu) - Many highly specialized prompts.
 ---------------
 - [CLARKGPT](https://github.com/jconorgrogan/CLARKGPT)- Chain-of-Thought, Limitations, Accuracy, Reflection, Knowledge
+----------------
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)- Were my journey started and I still steer beginners too. 
