@@ -21,3 +21,5 @@ Noted, I am heavily influenced by the following two prompt engineers.
 - [Innovation Algebra (IA)](https://github.com/hannes-marais/innovation-algebra): The Swiss Army knife for knowledge processing and innovation by [Hannes Marais](https://twitter.com/HiDeeeps)
 - [Universal Teacher UT-3.5](https://chat.openai.com/share/20ca5968-13ea-4b70-b58c-3ecd4682820e) by Wei 'Larry' Liu
 - * [Larry's Github Repos](https://github.com/1arry1iu) - Many highly specialized prompts.
+---------------
+- [CLARKGPT] (https://github.com/jconorgrogan/CLARKGPT)- Chain-of-Thought, Limitations, Accuracy, Reflection, Knowledge
