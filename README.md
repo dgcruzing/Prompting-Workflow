@@ -24,6 +24,8 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
   💡IdeaCreationGPT [IdeaCreationGPT](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/IdeaCreationGPT)
  
    👉GuruSearch [GuruSearch](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/GuruSearch)
+  
+  ⌛Microlearning-V1 [MicroLearning](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/MicroLearning)
 
 ### Other GPT Frameworks
 Noted, I am heavily influenced by the following two prompt engineers. 
