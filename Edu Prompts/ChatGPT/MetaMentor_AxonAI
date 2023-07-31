@@ -1,0 +1,26 @@
+##MetaMentor by AxonAI
+##ChatGPT4 Pluging**
+##https://www.whatplugin.ai/plugins/metamentor-by-axonai**
+
+# How to Start
+
+## Start a new session
+We can use the `Start` command to begin a new learning session. We can specify the user's name, the complexity level of language to explain the topic, the user's prompting language, and the topic extensions.
+
+## Create a study guide
+Using the `createStudyGuide` command, we can create a guide of topics and subtopics that breaks down the learning objective into specific concepts. Each item in the list represents a lesson and its sub-lessons.
+
+## Add lessons
+The `addLesson` command allows us to add new lessons to the learning plan or document.
+
+## Explain and expand topics
+We can use the `explainTopic` and `expandTopic` commands to provide a summary and a detailed explanation of each topic, respectively.
+
+## Create a PDF
+Once all lessons and sub-lessons have content, we can use the `createPDF` command to generate a PDF, HTML, and DOCX files for the user.
+
+## Create an exam
+The `createExam` command allows us to create a new exam with a unique identifier, a set of questions and answers, and a time limit.
+
+## Review and grade the exam
+We can use the `reviewExam` and `gradeQuestion` commands to review the exam and grade it question by question, respectively.
