@@ -29,6 +29,10 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
   
   🌟MetaMentor by AxonAI ChatGPT4 Plugin [MetaMentor_AxonAI](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/MetaMentor_AxonAI)
 
+### Bing
+  📖Summerise pdfs and create quiz questions using Bing AI and Edge [PDF summerise and Questions creation](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Bing/PDF%20summerise%20and%20Questions%20creation)
+Credits: Ethan Mollick
+
 ### Other GPT Frameworks
 Noted, I am heavily influenced by the following two prompt engineers. 
 
