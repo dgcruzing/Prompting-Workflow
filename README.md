@@ -15,6 +15,8 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
 
 ⌛Microlearning-V1 [Edu Prompts/Claude/Microlearning](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Claude/Microlearning)
 
+👉Feynman Technique-V1 [Feynman Technique](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Claude/Feynman%20Technique)
+
 
 
 ### ChatGPT
