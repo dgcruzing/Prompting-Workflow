@@ -33,6 +33,8 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
 
 ### Bing
   📖Summerise pdfs and create quiz questions using Bing AI and Edge [PDF summerise and Questions creation](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Bing/PDF%20summerise%20and%20Questions%20creation)
+
+🌟Personalized Concept Explanation - As above in Chat
 - Credits: Ethan Mollick
 
 ### Other GPT Frameworks
@@ -50,3 +52,6 @@ Noted, I am heavily influenced by the following two prompt engineers.
 If you come across a prompt I have not attributed someone else as a source, pop me a note as we are knee-deep in testing out what works and what gets tweaked. 
 I have been building out a thread on Twitter so will shift the learnings here, keeping in mind any copywriting constraints on some of this work. 
 - [SuperPrompting ChatGPT Prompt Twitter thread](https://twitter.com/advancedcskills/status/1652312454003822594?s=20)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4ODM3MjY1N119
+-->
