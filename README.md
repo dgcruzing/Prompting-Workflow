@@ -29,7 +29,7 @@ I will try to keep this on track around Prompts and Frameworks that work for me 
   
   ⌛Microlearning-V1 [MicroLearning](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/MicroLearning)
   
-  🌟Personalized Concept Explanation - ChatGPT4 - [PC](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/GuruSearch)
+  🌟Personalized Concept Explanation - ChatGPT4 - [PCE](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/Personalized%20Concept%20Explanation)
   
   🌟MetaMentor by AxonAI ChatGPT4 Plugin [MetaMentor_AxonAI](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/MetaMentor_AxonAI)
 
@@ -55,5 +55,5 @@ If you come across a prompt I have not attributed someone else as a source, pop 
 I have been building out a thread on Twitter so will shift the learnings here, keeping in mind any copywriting constraints on some of this work. 
 - [SuperPrompting ChatGPT Prompt Twitter thread](https://twitter.com/advancedcskills/status/1652312454003822594?s=20)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDcxOTE0OF19
+eyJoaXN0b3J5IjpbODI4MDU4ODVdfQ==
 -->
