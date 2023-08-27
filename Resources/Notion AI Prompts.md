@@ -223,3 +223,4 @@ Explanation and techniques used described on the blog: https://lspace.swyx.io/p/
           [Recruiting email subject] [Recruiting email body]
 
 ##Source: [swyxio](https://github.com/swyxio/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md)
+##[Notion -editing with AI](https://www.notion.so/help/creating-and-editing-with-ai#autofill-databases-with-ai)
