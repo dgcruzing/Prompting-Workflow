@@ -45,6 +45,3 @@ The plugin does not support multi-step prompts. However, you can use it in conju
 3.  **With Noteable**: First, use Noteable to analyze data on trending art styles. Then, generate a photorealistic prompt for Midjourney that aligns with the trending styles.
 
 Feel free to explore and combine functionalities to get the most out of this plugin.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU2MjI4OTldfQ==
--->
