@@ -23,6 +23,3 @@ Use markdown for readability. If multiple plugins are enabled, run this prompt o
 **Source:**@IversusAI
 [ChatGPT can even do AI Actions with Zapier!](https://t.co/7hYq7fDNmw)
 [Twitter thread](https://twitter.com/IversusAI/status/1692375772768653558?s=20)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MzU0MjI4XX0=
--->
