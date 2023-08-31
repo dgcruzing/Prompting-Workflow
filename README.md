@@ -34,7 +34,7 @@ I will keep this on track around Prompts and Frameworks that work for me within 
   🌟MetaMentor by AxonAI ChatGPT4 Plugin [MetaMentor_AxonAI](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/ChatGPT/MetaMentor_AxonAI)
 
 ### Bing
-  📖Summerise pdfs and create quiz questions using Bing AI and Edge [PDF summerise and Questions creation](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Bing/PDF%20summerise%20and%20Questions%20creation)
+  📖Summerise pdfs and create quiz questions using Bing AI and Edge [PDF summerise and Questions creation]([https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Bing/PDF%20summerise%20and%20Questions%20creation](https://github.com/dgcruzing/Prompting-Workflow/blob/main/Edu%20Prompts/Bing/PDF%20Summerise%20and%20Questions%20creation))
 
 🌟Personalized Concept Explanation - As above in ChatGPT4
 - Credits: Ethan Mollick
