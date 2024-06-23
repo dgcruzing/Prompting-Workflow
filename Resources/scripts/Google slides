@@ -1,0 +1,66 @@
+function importMarkdown() {
+  var markdown = DocumentApp.openById('YOUR_DOCUMENT_ID_HERE').getBody().getText();
+  var presentation = SlidesApp.getActivePresentation();
+  
+  var styles = {
+    backgroundColor: '#D3D3D3',  // Light grey
+    titleFont: 'Arial',
+    titleColor: '#000080',  // Navy blue
+    titleSize: 40,
+    subtitleFont: 'Arial',
+    subtitleColor: '#000080',  // Navy blue
+    subtitleSize: 28,
+    bodyFont: 'Arial',
+    bodyColor: '#000000',  // Black
+    bodySize: 18
+  };
+
+  var lines = markdown.split('\n');
+  var currentSlide = null;
+  var bulletY = 220;  // Starting Y position for bullet points
+  
+  for (var i = 0; i < lines.length; i++) {
+    var line = lines[i].trim();
+    
+    if (!currentSlide || line === '---') {
+      currentSlide = presentation.appendSlide();
+      currentSlide.getBackground().setSolidFill(styles.backgroundColor);
+      bulletY = 220;  // Reset bullet point Y position for new slide
+    }
+    
+    if (line.startsWith('# ')) {
+      var title = currentSlide.insertTextBox(line.substring(2));
+      var titleStyle = title.getText().getTextStyle();
+      titleStyle.setFontFamily(styles.titleFont)
+                .setFontSize(styles.titleSize)
+                .setForegroundColor(styles.titleColor);
+      setTextBoxProperties(title, 40, 50, 640, 80);
+    } else if (line.startsWith('## ')) {
+      var subtitle = currentSlide.insertTextBox(line.substring(3));
+      var subtitleStyle = subtitle.getText().getTextStyle();
+      subtitleStyle.setFontFamily(styles.subtitleFont)
+                   .setFontSize(styles.subtitleSize)
+                   .setForegroundColor(styles.subtitleColor);
+      setTextBoxProperties(subtitle, 40, 150, 640, 50);
+    } else if (line.startsWith('- ') || line.startsWith('* ')) {
+      addBulletPoint(currentSlide, line.substring(2), styles, bulletY);
+      bulletY += 40;  // Increase Y position for next bullet point
+    }
+  }
+}
+
+function setTextBoxProperties(textBox, left, top, width, height) {
+  textBox.setLeft(left)
+         .setTop(top)
+         .setWidth(width)
+         .setHeight(height);
+}
+
+function addBulletPoint(slide, text, styles, y) {
+  var bulletPoint = slide.insertTextBox('• ' + text);
+  var bulletStyle = bulletPoint.getText().getTextStyle();
+  bulletStyle.setFontFamily(styles.bodyFont)
+             .setFontSize(styles.bodySize)
+             .setForegroundColor(styles.bodyColor);
+  setTextBoxProperties(bulletPoint, 60, y, 600, 40);
+}
