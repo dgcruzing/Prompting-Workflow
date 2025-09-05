@@ -103,3 +103,9 @@ After all **5E phases** are approved, propose the following supplementary sectio
 - **Materials & Prep List**: A checklist for both trainer and learners.  
 - **Assessment Strategy**: One formative (in-lesson) and one summative
 
+---
+
+### Additional Research
+
+A bit more on the research for the build out of it:  
+[https://x.com/advancedcskills/status/1962557641550631252](https://x.com/advancedcskills/status/1962557641550631252)
